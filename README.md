@@ -8,8 +8,9 @@ Para rodar esse projeto na sua máquina, por favor digite:
 node app.js
 ```
 
-# Lista de comandos para git log
+# Lista de comandos para git
 
 https://devhints.io/git-log-format
 
-:)
+https://devhints.io/git-log
+
