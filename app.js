@@ -7,3 +7,7 @@ function teste() {
 function teste2() {
     console.log("testando evento 2");
 }
+
+function teste2() {
+    console.log("testando evento 3");
+}
