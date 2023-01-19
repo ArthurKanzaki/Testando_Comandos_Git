@@ -19,7 +19,7 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a
 
 https://devhints.io/git-log-format
 
-https://devhints.io/git-
+https://devhints.io/git-clone
 
 
 
