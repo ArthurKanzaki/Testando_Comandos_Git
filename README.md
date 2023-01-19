@@ -21,5 +21,7 @@ https://devhints.io/git-log-format
 
 https://devhints.io/git-clone
 
+https://guilhermeonrails.github.io/manual-do-git-e-github/
+
 
 
